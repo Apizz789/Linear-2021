@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          Liner Love  >> Orachat Chitsobhuk
         </a>
       </header>
     </div>
