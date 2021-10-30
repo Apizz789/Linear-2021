@@ -10,13 +10,12 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="App-link"
+          className="App-logo"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-          Liner Love  >> Orachat Chitsobhuk
+          Learn Liner Love -----  Orachat Chitsobhuk 
         </a>
       </header>
     </div>
