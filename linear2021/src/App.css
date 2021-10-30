@@ -16,7 +16,8 @@
 }
 
 .App-header, .App-logo2 {
-  background-color: #282c34;
+  /* background-color: #282c34; */
+  color:#61dafb ;
   min-height: 10vh;
   display: flex;
   flex-direction: column;
